@@ -3,3 +3,48 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "behaviorchange"]
+	path = behaviorchange
+	url = https://gitlab.com/r-packages/behaviorchange
+	shallow = true
+	registered = true
+[submodule "justifier"]
+	path = justifier
+	url = https://gitlab.com/r-packages/justifier
+	shallow = true
+	registered = true
+[submodule "limonaid"]
+	path = limonaid
+	url = https://gitlab.com/r-packages/limonaid
+	shallow = true
+	registered = true
+[submodule "preregr"]
+	path = preregr
+	url = https://gitlab.com/r-packages/preregr
+	shallow = true
+	registered = true
+[submodule "psyverse"]
+	path = psyverse
+	url = https://gitlab.com/r-packages/psyverse
+	shallow = true
+	registered = true
+[submodule "rock"]
+	path = rock
+	url = https://gitlab.com/r-packages/rock
+	shallow = true
+	registered = true
+[submodule "rosetta"]
+	path = rosetta
+	url = https://gitlab.com/r-packages/rosetta
+	shallow = true
+	registered = true
+[submodule "ufs"]
+	path = ufs
+	url = https://gitlab.com/r-packages/ufs
+	shallow = true
+	registered = true
+[submodule "yum"]
+	path = yum
+	url = https://gitlab.com/r-packages/yum
+	shallow = true
+	registered = true

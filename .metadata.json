@@ -1,0 +1,38 @@
+[
+  {
+    "package": "behaviorchange",
+    "oncran": true
+  },
+  {
+    "package": "justifier",
+    "oncran": true
+  },
+  {
+    "package": "limonaid",
+    "oncran": true
+  },
+  {
+    "package": "preregr",
+    "oncran": true
+  },
+  {
+    "package": "psyverse",
+    "oncran": true
+  },
+  {
+    "package": "rock",
+    "oncran": true
+  },
+  {
+    "package": "rosetta",
+    "oncran": true
+  },
+  {
+    "package": "ufs",
+    "oncran": true
+  },
+  {
+    "package": "yum",
+    "oncran": true
+  }
+]
