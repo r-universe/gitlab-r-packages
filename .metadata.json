@@ -24,10 +24,6 @@
     "oncran": true
   },
   {
-    "package": "rosetta",
-    "oncran": true
-  },
-  {
     "package": "ufs",
     "oncran": true
   },

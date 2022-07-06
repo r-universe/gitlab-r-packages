@@ -33,11 +33,6 @@
 	url = https://gitlab.com/r-packages/rock
 	shallow = true
 	registered = true
-[submodule "rosetta"]
-	path = rosetta
-	url = https://gitlab.com/r-packages/rosetta
-	shallow = true
-	registered = true
 [submodule "ufs"]
 	path = ufs
 	url = https://gitlab.com/r-packages/ufs
